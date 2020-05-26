@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"objectscript.conn.active": true,
+		"objectscript.conn.host": "localhost",
+		"objectscript.conn.port": 52773,
+		"objectscript.conn.username": "_SYSTEM",
+		"objectscript.conn.password": "sys",
+		"objectscript.conn.ns": "USER",
+		"objectscript.conn.https": false
+	}
+}
